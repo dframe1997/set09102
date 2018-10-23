@@ -1,0 +1,6 @@
+C:\Users\40200819\source\repos\CalculatorUsingMEF\Contract\bin\Debug\Contract.dll
+C:\Users\40200819\source\repos\CalculatorUsingMEF\Contract\bin\Debug\Contract.pdb
+C:\Users\40200819\source\repos\CalculatorUsingMEF\Contract\obj\Debug\Contract.csprojAssemblyReference.cache
+C:\Users\40200819\source\repos\CalculatorUsingMEF\Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+C:\Users\40200819\source\repos\CalculatorUsingMEF\Contract\obj\Debug\Contract.dll
+C:\Users\40200819\source\repos\CalculatorUsingMEF\Contract\obj\Debug\Contract.pdb

@@ -1,0 +1,15 @@
+C:\Users\40200819\source\repos\CalculatorUsingMEF\CalculatorUsingMEF\obj\Debug\CalculatorUsingMEF.csprojAssemblyReference.cache
+C:\Users\40200819\source\repos\CalculatorUsingMEF\CalculatorUsingMEF\obj\Debug\CalculatorUsingMEF.Form1.resources
+C:\Users\40200819\source\repos\CalculatorUsingMEF\CalculatorUsingMEF\obj\Debug\CalculatorUsingMEF.Properties.Resources.resources
+C:\Users\40200819\source\repos\CalculatorUsingMEF\CalculatorUsingMEF\obj\Debug\CalculatorUsingMEF.csproj.GenerateResource.cache
+C:\Users\40200819\source\repos\CalculatorUsingMEF\CalculatorUsingMEF\obj\Debug\CalculatorUsingMEF.csproj.CoreCompileInputs.cache
+C:\Users\40200819\source\repos\CalculatorUsingMEF\CalculatorUsingMEF\bin\Debug\CalculatorUsingMEF.exe.config
+C:\Users\40200819\source\repos\CalculatorUsingMEF\CalculatorUsingMEF\bin\Debug\CalculatorUsingMEF.exe
+C:\Users\40200819\source\repos\CalculatorUsingMEF\CalculatorUsingMEF\bin\Debug\CalculatorUsingMEF.pdb
+C:\Users\40200819\source\repos\CalculatorUsingMEF\CalculatorUsingMEF\bin\Debug\CompositionHelper.dll
+C:\Users\40200819\source\repos\CalculatorUsingMEF\CalculatorUsingMEF\bin\Debug\Contract.dll
+C:\Users\40200819\source\repos\CalculatorUsingMEF\CalculatorUsingMEF\bin\Debug\CompositionHelper.pdb
+C:\Users\40200819\source\repos\CalculatorUsingMEF\CalculatorUsingMEF\bin\Debug\Contract.pdb
+C:\Users\40200819\source\repos\CalculatorUsingMEF\CalculatorUsingMEF\obj\Debug\CalculatorUsingMEF.csproj.CopyComplete
+C:\Users\40200819\source\repos\CalculatorUsingMEF\CalculatorUsingMEF\obj\Debug\CalculatorUsingMEF.exe
+C:\Users\40200819\source\repos\CalculatorUsingMEF\CalculatorUsingMEF\obj\Debug\CalculatorUsingMEF.pdb

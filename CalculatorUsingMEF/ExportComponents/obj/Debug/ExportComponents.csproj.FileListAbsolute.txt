@@ -1,0 +1,14 @@
+C:\Users\40200819\source\repos\CalculatorUsingMEF\ExportComponents\obj\Debug\ExportComponents.csproj.CoreCompileInputs.cache
+C:\Users\40200819\source\repos\CalculatorUsingMEF\ExportComponents\obj\Debug\ExportComponents.csprojAssemblyReference.cache
+C:\Users\40200819\source\repos\CalculatorUsingMEF\ExportComponents\bin\Debug\ExportComponents.dll
+C:\Users\40200819\source\repos\CalculatorUsingMEF\ExportComponents\bin\Debug\ExportComponents.pdb
+C:\Users\40200819\source\repos\CalculatorUsingMEF\ExportComponents\bin\Debug\CalculatorUsingMEF.exe
+C:\Users\40200819\source\repos\CalculatorUsingMEF\ExportComponents\bin\Debug\CompositionHelper.dll
+C:\Users\40200819\source\repos\CalculatorUsingMEF\ExportComponents\bin\Debug\Contract.dll
+C:\Users\40200819\source\repos\CalculatorUsingMEF\ExportComponents\bin\Debug\CalculatorUsingMEF.pdb
+C:\Users\40200819\source\repos\CalculatorUsingMEF\ExportComponents\bin\Debug\CalculatorUsingMEF.exe.config
+C:\Users\40200819\source\repos\CalculatorUsingMEF\ExportComponents\bin\Debug\CompositionHelper.pdb
+C:\Users\40200819\source\repos\CalculatorUsingMEF\ExportComponents\bin\Debug\Contract.pdb
+C:\Users\40200819\source\repos\CalculatorUsingMEF\ExportComponents\obj\Debug\ExportComponents.csproj.CopyComplete
+C:\Users\40200819\source\repos\CalculatorUsingMEF\ExportComponents\obj\Debug\ExportComponents.dll
+C:\Users\40200819\source\repos\CalculatorUsingMEF\ExportComponents\obj\Debug\ExportComponents.pdb
